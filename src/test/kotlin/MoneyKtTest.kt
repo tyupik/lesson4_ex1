@@ -15,7 +15,7 @@ class MoneyKtTest {
             amount = amountTest,
             cardType = cardTypeTest
             )
-        assertEquals(620000, result)
+        assertEquals(62000, result)
     }
 
     @Test
